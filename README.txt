@@ -1,9 +1,9 @@
 AN INTERACTIVE WEB-VISUALIZATION FOR A NETWORK OF AUTHORS
 
-- Each author is represented by a node.
-- The size of the node indicates the number of contributions the corresponding author has made towards conference publications
+This visualizaiton was made for educational purposes. 
 
-from EGUK
+- Each author is represented by a node.
+- The size of the node indicates the number of contributions the corresponding author has made towards conference publications from EGUK.
 
 - Made using D3.js
 
