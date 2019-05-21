@@ -61,10 +61,10 @@
     //Read our Data in
     d3.queue()
         .defer(d3.csv, "authors.csv")
-        .await(ready)
+        .await(draw)
     
     //Draw circle for each datapoint
-    function ready (error, datapoints) {
+    function draw (error, datapoints) {
         var circles = svg.selectAll(".Name")
             .data(datapoints)
             .enter().append("circle")
