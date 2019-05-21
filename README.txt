@@ -1,3 +1,5 @@
+InfoViz of EGUK's conferences
+
 AN INTERACTIVE WEB-VISUALIZATION FOR A NETWORK OF AUTHORS
 
 This visualizaiton was made for educational purposes. 
